@@ -1,0 +1,12 @@
+{
+  "name": "google-dice-relay",
+  "version": "1.0.0",
+  "description": "Google Dice two-device relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
