@@ -5,7 +5,7 @@
 
   "main": "src/index.js",
 
-  "compatibility_date": "2026-09-20",
+  "compatibility_date": "2026-09-19",
 
   "durable_objects": {
     "bindings": [
